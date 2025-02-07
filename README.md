@@ -1,6 +1,6 @@
 # RedNote Video Download
 
-**RedNote Video Download** is a fast and easy-to-use tool for downloading videos from various platforms. Whether you want to save educational content, collect your favorite clips, or watch videos offline, RedNote has got you covered!
+**RedNote Video Download** is a fast and easy-to-use tool for downloading videos from rednote platform. Whether you want to save educational content, collect your favorite clips, or watch videos offline, RedNote Video Download has got you covered!
 
 ---
 
