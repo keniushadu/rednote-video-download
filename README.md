@@ -1,5 +1,7 @@
 # RedNote Video Download
 
+<a href="https://fazier.com/launches/rednote-video-downloader" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=2907&badge_type=daily&theme=light" width="270" alt="Example Image" className="d-inline-block mt-3 p-3 rounded img-fluid" /></a>    <a href="https://fazier.com/launches/rednote-video-downloader" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=2907&badge_type=featured&theme=light" width="270" alt="Example Image" className="d-inline-block mt-3 p-3 rounded img-fluid" /></a>
+
 **RedNote Video Download** is a fast and easy-to-use tool for downloading videos from rednote platform. Whether you want to save educational content, collect your favorite clips, or watch videos offline, RedNote Video Download has got you covered!
 
 ---
